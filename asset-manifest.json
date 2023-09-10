@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Khabar-React/static/css/main.abd64e84.css",
-    "main.js": "/Khabar-React/static/js/main.9d193a5c.js",
+    "main.js": "/Khabar-React/static/js/main.386f6ca3.js",
     "static/js/787.61eee022.chunk.js": "/Khabar-React/static/js/787.61eee022.chunk.js",
     "index.html": "/Khabar-React/index.html",
     "main.abd64e84.css.map": "/Khabar-React/static/css/main.abd64e84.css.map",
-    "main.9d193a5c.js.map": "/Khabar-React/static/js/main.9d193a5c.js.map",
+    "main.386f6ca3.js.map": "/Khabar-React/static/js/main.386f6ca3.js.map",
     "787.61eee022.chunk.js.map": "/Khabar-React/static/js/787.61eee022.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.9d193a5c.js"
+    "static/js/main.386f6ca3.js"
   ]
 }
